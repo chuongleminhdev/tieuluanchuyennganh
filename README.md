@@ -1,5 +1,4 @@
-# Machine Learning
-This project create by Students of HCMUTE
+# This project create by Students of HCMUTE
 
 # In this project we refer from :
 1.	https://machinelearningcoban.com
